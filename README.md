@@ -1,7 +1,6 @@
 StringChange
 ============
 
-My first repository on GitHub
 
 
 1, 路径转换(windows路径转成linux路径(/  或者 \\\\);
