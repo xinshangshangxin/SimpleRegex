@@ -1,4 +1,4 @@
-StringChange
+SimpleRegex
 ============
 1. 路径转换(windows路径转成linux路径(/ 或者 \\\\);
 
