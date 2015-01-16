@@ -98,9 +98,9 @@
         var autoselect = document.getElementsByClassName("autoselect");
         for (var i = 0; i < autoselect.length; i++) {
             autoselect[i].onfocus = function() {
-                that = this;
+                var _this = this;
                 setTimeout(function() {
-                    that.select();
+                    _this.select();
                 }, 30);
             }
         }
